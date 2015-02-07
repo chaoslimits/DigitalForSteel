@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chaos",
+    "longName": "Digital Zen_V2",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[adefhimnorstuwy]",
+                "file": "fonts/Gotham-Light.ttf",
+                "name": "FONT_GOTHAM_LIGHT_20",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Digital Zen_V2",
+    "uuid": "517ef623-7bb3-4b66-a913-9ce4ef7765cb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
